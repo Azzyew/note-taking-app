@@ -1,10 +1,12 @@
 # Note taking app
 
-Create and store notes
+Create, edit and store notes
 
 ## TODO
 
--   [ ] User can create a note
--   [ ] User can edit a note
--   [ ] User can delete a note
--   [ ] When closing the browser window the notes will be stored and when the User returns, the data will be retrieved
+-   [x] User can create a note
+-   [x] User can edit a note
+-   [x] User can delete a note
+-   [x] When closing the browser window the notes will be stored and when the User returns, the data will be retrieved
+
+Inspired by John Smilga todo project (https://github.com/john-smilga/javascript-basic-projects/tree/master/14-todo)
