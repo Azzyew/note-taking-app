@@ -1,7 +1,7 @@
 # Note taking app
 
 Create, edit and store notes
-Live demo[here](https://note-taking-app-two.vercel.app/)
+Live demo [here](https://note-taking-app-two.vercel.app/)
 
 ## TODO
 
